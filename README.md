@@ -36,7 +36,7 @@ pip install sklearn
 
 ### Använd Python activities
 Nu kan du hitta alla Python activities där du hittar alla andra activities.
-För att importera ett Python scrips så tar du följande steg:
+För att importera ett Python script så tar du följande steg:
 
 1. Dra in ett Python scope på arbetsytan.
 2. Propertien Path ska sättas till den virtuella miljön som du skapade tidigare. För att hitta den så kan du öppna anaconda prompten och skriva:
