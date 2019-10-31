@@ -70,7 +70,7 @@ Python
 5. Dra in en ny aktivitet, Load Python Script och lägg det i Python scope.
 6. Ge filsökvägen till den python-fil som ni vill använda. I properties klicka på Result och skapa en ny variabel (ctrl+k) och döp den till något passande.
 7. Dra in en Invoke Python Method aktivitet till. I properties under fliken Input skriv in variabeln som skapades i förra steget i fältet Instance.
-8. I fältet name, skriv funktionsnamnet till den funktion som ska anropas. (t.ex. "HelloWorld").
+8. I fältet name, skriv funktionsnamnet till den funktion som ska anropas. (t.ex. "FunctionName").
 9. Klicka på Result under Output och skapa en ny variabel (ctrl+k) och döp den till något passande.
 
 10. Dra in en Get Python Object aktivitet, under properties och fyll i fältet Python object under Input med den variabel som skapades i steg 9.
